@@ -1,0 +1,36 @@
+#logo-acs {
+  width: 120px;
+}
+.card-img-top {
+  width: 275px;  height: 280px;
+}
+.card-img-height {
+  display: block;
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+}
+.card-text {
+  width: auto;
+  height: 240px;
+  overflow: hidden;
+}
+.text-console {
+  color: #1cff15;
+}
+.background-console{
+  height: 100vh;
+  background-color: black;
+}
+#global{
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+.row-html{
+  display: table-cell;
+  vertical-align: middle;
+}
+footer{
+margin-top: 1vh;
+}
